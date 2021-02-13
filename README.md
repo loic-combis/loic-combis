@@ -21,18 +21,22 @@ Hi there! 👋 I'm Loïc Combis. Thanks for visiting my github profile! Feel fre
 
 ## Random memes to make you smile
 
-![Homer Simpson hiding](./assets/doctor-developer.jpg)
+![Doctor vs developers meme](./assets/doctor-developer.jpg)
 
-> When it's friday 6pm and you have 500+ conflicts...
+### When it's friday 6pm and you have 500+ conflicts...
+
 ![Cristiano Ronaldo Furious](https://media.giphy.com/media/zcVOyJBHYZvX2/giphy.gif)
 
-> When the PO wants new feature just before the release...
+### When the PO wants new feature just before the release...
+
 ![The office Stop it](https://media.giphy.com/media/zCpYQh5YVhdI1rVYpE/giphy.gif)
 
-> When you look at legacy code
+### When you look at legacy code
+
 ![Angry girl](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
 
-> "Let's force push master..."
+### "Let's force push master..."
+
 ![New Girl Schmidt vomitting](https://media.giphy.com/media/H4wUvhRHnb2TK/giphy.gif)
 
 ### I hope you enjoyed it! Bye Bye 👋
