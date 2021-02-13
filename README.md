@@ -27,13 +27,13 @@ Hi there! 👋 I'm Loïc Combis. Thanks for visiting my github profile! Feel fre
 
 ![Cristiano Ronaldo Furious](https://media.giphy.com/media/zcVOyJBHYZvX2/giphy.gif)
 
-### When the PO wants new feature just before the release...
+### When the PO wants a new feature just before the release...
 
 ![The office Stop it](https://media.giphy.com/media/zCpYQh5YVhdI1rVYpE/giphy.gif)
 
 ### When you look at legacy code
 
-![Angry girl](https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif)
+![Angry girl](https://media.giphy.com/media/R54jhpzpARmVy/giphy.gif)
 
 ### "Let's force push master..."
 
