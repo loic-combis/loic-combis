@@ -5,8 +5,6 @@
 
 Hi there! 👋 I'm Loïc Combis. Thanks for visiting my github profile! Feel free to take a look at my repos. 😊 Everything public is open source!
 
-> If you want more info about me (education, career, project, hobbies etc..), please visit my [website](https://loic-combis.github.io).
-
 > If you fancy a bit of reading, checkout my posts on [Medium](https://loic-combis.medium.com/).
 
 ## How to reach me
