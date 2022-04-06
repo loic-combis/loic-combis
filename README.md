@@ -21,11 +21,11 @@ Hi there! 👋 I'm Loïc Combis. Thanks for visiting my github profile! Feel fre
 
 ![Doctor vs developers meme](./assets/doctor-developer.jpg)
 
-### When it's friday 6pm and you have 500+ conflicts...
+### When it's friday 6pm and you have conflicts on a 100+ files PR...
 
 ![Cristiano Ronaldo Furious](https://media.giphy.com/media/zcVOyJBHYZvX2/giphy.gif)
 
-### When the PO wants a new feature just before the release...
+### When the PM adds new feature the week before the release...
 
 ![The office Stop it](https://media.giphy.com/media/zCpYQh5YVhdI1rVYpE/giphy.gif)
 
@@ -37,6 +37,6 @@ Hi there! 👋 I'm Loïc Combis. Thanks for visiting my github profile! Feel fre
 
 ![New Girl Schmidt vomitting](https://media.giphy.com/media/H4wUvhRHnb2TK/giphy.gif)
 
-### I hope you enjoyed it! Bye Bye 👋
+### Bye 👋
 
 ![Obama out](https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
